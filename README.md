@@ -32,4 +32,4 @@ The main code is the file mixsiar_model.R it reads and executes the content of t
 
 ## Usage
 Source the main file mixsiar_model.R. With default parameters, it should create a test set with dummy results.
-If everything is working, change the chain length to extreme and execute the main file again
+If everything is working, change the chain length to extreme and execute the main file again.
