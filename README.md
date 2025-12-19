@@ -13,8 +13,8 @@ In a conda environment, install jags and r-rjags :
 ```
 conda create --name <ENV_NAME> r-base r-essentials rstudio
 conda activate <ENV_NAME>
-conda install jags
-conda install r-rjags
+conda install conda-forge::jags
+conda install conda-forge::r-rjags
 ```
 
 Launch r-studio from within the environment, and open ReplicationCode.Rproj
